@@ -3,6 +3,7 @@
 /develop-eggs
 /bin
 /.settings
+.eggs
 *.pyc
 *.egg
 *.egg-info
